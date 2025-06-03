@@ -24,7 +24,7 @@ Desenvolver testes automatizados funcionais (Selenium) e unitários (PyTest) sob
 
 ## 🛠️ Tecnologias Usadas
 
-- Python 3.11
+- Python 3.12
 - Selenium 4
 - PyTest
 - Geckodriver WebDriver para Mozilla
